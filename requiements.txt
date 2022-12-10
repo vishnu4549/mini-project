@@ -1,0 +1,5 @@
+streamlit=3.10
+numpy=1.23.5
+cv2=4.6.0
+PIL=2.2.1
+BytesIO=3.5
